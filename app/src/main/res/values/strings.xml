@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrashApp</string>
+    <string name="c1">Ciclo1</string>
+    <string name="c2">Ciclo2</string>
+    <string name="c3">Ciclo3</string>
+    <string name="textoC">Ciclos: </string>
+</resources>
